@@ -1,0 +1,4 @@
+debug = false
+source_path = '/Users/xiaoqiangjiang/source/reddwarf/frontend/sleepease'
+output_path = './'
+doc_title = 'SleepEase源代码'
